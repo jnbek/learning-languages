@@ -1,7 +1,15 @@
-learning-pascal
+learning-languages
 ===============
 
-Yep, another learning-$lang repo, Why Pascal? Why not, it's a language and I don't know it as of 2012-Sept-18
+As a programmer and sysadmin it's prudent for me to keep fresh on learning. This repo is a collection of code I've written in my quest to learn a new language. 
 
-The Chapter Directories are code found in PASCAL PROGRAMMING AND PROBLEM SOLVING 4th Edition ISBN: 0-02-388731-1
+Languages may or may not include:
 
+* Go
+* C/C++
+* Pascal
+* Ocaml
+* Python
+* D
+* R
+* C#
